@@ -9,3 +9,5 @@
 <h2>Histórico das Etapas de Desenvolvimento / Changelog</h2>
 
 <p>## [feat] Refs #111 Version 1.0.0-beta 26/02/2022 - Teste Git;</p>
+<p>## [feat] Refs #111 Version 1.0.1-beta 26/02/2022 - Criando pastas e arquivos;</p>
+<p>## [feat] Refs #111 Version 1.0.2-beta 02/03/2022 - Finalizando Projeto;</p>
